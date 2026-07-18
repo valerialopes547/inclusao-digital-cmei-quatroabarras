@@ -1,1 +1,18 @@
-...
+# Levantamento de Requisitos e Infraestrutura Tecnológica
+
+Este documento descreve os requisitos de hardware, software e segurança necessários para a execução das atividades de inclusão digital no Centro Municipal de Educação Infantil (CMEI).
+
+## 1. Requisitos de Hardware
+* Dispositivo de Exibição: 01 Smart TV com resolução mínima Full HD, entrada HDMI e suporte a conexões de rede Wi-Fi.
+* Dispositivo de Controle (Opcional): 01 Computador/Notebook integrado para espelhamento de tela e gerenciamento remoto dos conteúdos pedagógicos, caso necessário.
+* Periféricos: Controle remoto funcional para navegação rápida nos menus do aparelho.
+
+## 2. Requisitos de Software e Redes
+* Conectividade: Conexão estável com a internet via Wi-Fi local fornecida pelo CMEI.
+* Sistema Operacional: Sistema operacional nativo da Smart TV ou plataforma base configurada (Android/Windows) para execução das aplicações.
+* Navegador Web: Google Chrome ou navegador nativo atualizado.
+* Plataforma de Mídia: Aplicativo oficial do YouTube Kids instalado e atualizado.
+
+## 3. Requisitos de Segurança e Governança (Controle Parental)
+* Filtros de Proteção: Ativação obrigatória do modo de restrição estrita de conteúdo no perfil administrativo da Smart TV.
+* Bloqueios: Configuração do YouTube Kids para exibir exclusivamente canais aprovados pela curadoria pedagógica, bloqueando anúncios comerciais e sugestões automáticas de vídeos externos de terceiros.
